@@ -32,10 +32,17 @@
     <!-- Markdown Script -->
     <script type="module" src="https://cdn.jsdelivr.net/npm/zero-md@3?register"></script>
     <script>
-        setTimeout(() => {
-            let markdownBody = document.querySelector("body > div.content > zero-md").shadowRoot.querySelector("div.markdown-body")
-            markdownBody.style.backgroundColor = "transparent";
-        }, 100)
+        function setBackground(){
+            try { 
+                let markdownBody = document.querySelector("body > div.content > zero-md").shadowRoot.querySelector("div.markdown-body")
+                markdownBody.style.backgroundColor = "transparent";              
+            } catch (e) {
+                setTimeout(() => {
+                    setBackground()
+                }, 50)
+            }
+        }
+        setBackground()
     </script>
 
     <!-- Bootstrap -->
