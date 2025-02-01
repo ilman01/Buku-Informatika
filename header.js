@@ -1,13 +1,18 @@
 const header = `
-<div class="container-fluid bg-dark text-white py-2">
-    <div class="container d-flex justify-content-between align-items-center">
-        <div><a href="/" class="fs-4 fw-bold text-white text-decoration-none">Buku Informatika</a></div>
-        <div class="d-flex gap-3">
-            <div class="nav-item"><a href="/" class="text-white text-decoration-none">Home</a></div>
-            <div class="nav-item"><a href="/buku/introduction.html" class="text-white text-decoration-none">Buku</a></div>
-            <div class="nav-item"><a href="#" class="text-white text-decoration-none">About</a></div>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark py-2">
+    <div class="container">
+        <a class="navbar-brand fs-4 fw-bold" href="/">Buku Informatika</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto gap-3">
+                <li class="nav-item"><a class="nav-link text-white" href="/">Home</a></li>
+                <li class="nav-item"><a class="nav-link text-white" href="/buku/introduction.html">Buku</a></li>
+                <li class="nav-item"><a class="nav-link text-white" href="#">About</a></li>
+            </ul>
         </div>
     </div>
-</div>
+</nav>
 `
 document.querySelector("body").insertAdjacentHTML("afterbegin", header);

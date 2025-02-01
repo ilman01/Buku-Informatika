@@ -1,5 +1,5 @@
 const sidebar = `
-<button class="btn btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#sidebar" aria-controls="sidebar" aria-expanded="false" aria-label="Toggle navigation" style="position: fixed; top: 60px; left: 10px; z-index: 1050;">
+<button class="btn btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#sidebar" aria-controls="sidebar" aria-expanded="false" aria-label="Toggle navigation" style="position: fixed; left: 10px; z-index: 1050;">
     ☰
 </button>
 <div id="sidebar" class="sidebar text-white collapse" style="position: fixed; width: 250px; background-color: #232323; padding: 20px; transition: width 0.3s ease-in-out, height 0.3s ease-in-out;">
