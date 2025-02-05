@@ -74,8 +74,8 @@ Array dan list digunakan untuk menyimpan beberapa nilai dalam satu variabel. Lis
   printf("%d", array[0]);  // Output: 1
   ```
 
-## 5. Pemrograman Berorientasi Objek (OOP)
-Pemrograman Berorientasi Objek adalah paradigma pemrograman yang menggunakan objek dan kelas untuk mengorganisir kode.
+## 5. Pemrograman Berorientasi Objek
+Pemrograman Berorientasi Objek (OOP) adalah paradigma pemrograman yang menggunakan objek dan kelas untuk mengorganisir kode.
 
 - **Kelas (Class)** adalah blueprint untuk membuat objek.
 - **Objek (Object)** adalah instansi dari kelas.

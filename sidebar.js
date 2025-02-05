@@ -10,26 +10,37 @@ const sidebar = `
         <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/bab1.html#3-software">Software</a></li>
         <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/bab1.html#4-kesimpulan">Kesimpulan</a></li>
     </ul>
-    <h4 style="padding-top: 40px;"><a class="text-white text-decoration-none" href="#">Buku Informatika</a></h4>
+    <h4 style="padding-top: 40px;"><a class="text-white text-decoration-none" href="/buku/bab2.html">Pemrograman Dasar</a></h4>
     <ul class="nav flex-column">
-        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/introduction.html">Introduction</a></li>
-        <li class="nav-item"><a class="nav-link text-white-50 bar" href="#section2">Getting Started</a></li>
-        <li class="nav-item"><a class="nav-link text-white-50 bar" href="#section3">Components</a></li>
-        <li class="nav-item"><a class="nav-link text-white-50 bar" href="#section4">API Reference</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/bab2.html#1-pendahuluan">Pendahuluan</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/bab2.html#2-konsep-dasar-pemrograman">Konsep Dasar Pemrograman</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/bab2.html#3-fungsi">Fungsi</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/bab2.html#4-array-dan-list">Array dan List</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/bab2.html#5-pemrograman-berorientasi-objek">Pemrograman Berorientasi Objek</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/bab2.html#6-debugging-dan-error-handling">Debugging dan Error Handling</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/bab2.html#7-kesimpulan">Kesimpulan</a></li>
     </ul>
-    <h4 style="padding-top: 40px;"><a class="text-white text-decoration-none" href="#">Buku Informatika</a></h4>
+    <h4 style="padding-top: 40px;"><a class="text-white text-decoration-none" href="/buku/bab3.html">Jaringan dan Internet</a></h4>
     <ul class="nav flex-column">
-        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/introduction.html">Introduction</a></li>
-        <li class="nav-item"><a class="nav-link text-white-50 bar" href="#section2">Getting Started</a></li>
-        <li class="nav-item"><a class="nav-link text-white-50 bar" href="#section3">Components</a></li>
-        <li class="nav-item"><a class="nav-link text-white-50 bar" href="#section4">API Reference</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/bab3.html#1-pendahuluan">Pendahuluan</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/bab3.html#2-jaringan-komputer">Jaringan Komputer</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/bab3.html#3-protokol-dalam-jaringan-komputer">Protokol dalam Jaringan Komputer</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/bab3.html#4-model-osi">Model OSI</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/bab3.html#5-internet">Internet</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/bab3.html#6-keamanan-jaringan-komputer">Keamanan Jaringan Komputer</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/bab3.html#7-tren-terkini">Tren Terkini</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/bab3.html#8-kesimpulan">Kesimpulan</a></li>
     </ul>
-    <h4 style="padding-top: 40px;"><a class="text-white text-decoration-none" href="#">Buku Informatika</a></h4>
+    <h4 style="padding-top: 40px;"><a class="text-white text-decoration-none" href="/buku/bab4.html">Pengembangan Web</a></h4>
     <ul class="nav flex-column">
-        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/introduction.html">Introduction</a></li>
-        <li class="nav-item"><a class="nav-link text-white-50 bar" href="#section2">Getting Started</a></li>
-        <li class="nav-item"><a class="nav-link text-white-50 bar" href="#section3">Components</a></li>
-        <li class="nav-item"><a class="nav-link text-white-50 bar" href="#section4">API Reference</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/bab4.html#1-pendahuluan">Pendahuluan</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/bab4.html#2-teknologi-pengembangan-web">Teknologi Pengembangan Web</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/bab4.html#3-jenis-situs-web">Jenis Situs Web</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/bab4.html#4-pengembangan-web-responsif">Pengembangan Web Responsif</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/bab4.html#5-proses-pengembangan-web">Proses Pengembangan Web</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/bab4.html#6-ui-dan-ux">UI dan UX</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/bab4.html#7-search-engine-optimization">Search Engine Optimization</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/bab4.html#8-kesimpulan">Kesimpulan</a></li>
     </ul>
 </div>
 `
@@ -47,23 +58,20 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 });
 
-document.querySelectorAll('.bar').forEach(function(link) {
-    link.addEventListener('click', function(event) {
-        event.preventDefault();
-        fullReload(this.href);
-    });
-});
-  
-function fullReload(url) {
-    window.location.href = url;
-    window.location.reload(true);
-}
-  
-/*document.addEventListener("DOMContentLoaded", function () {
-    document.querySelectorAll(".nav-link").forEach(function (link) {
+// Force Reload
+document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll("a.bar").forEach(link => {
         link.addEventListener("click", function (event) {
-            console.log("test!")
-            window.location.reload() // Force a full reload
+            event.preventDefault(); // Prevent default navigation
+
+            const url = new URL(this.href, window.location.origin);
+            const anchor = url.hash; // Get the anchor part (e.g., #2-hardware)
+            url.hash = ""; // Remove hash temporarily
+            var randomNumber = (Math.random()*5).toFixed(3);
+            url.searchParams.set("r", randomNumber); // Add random param
+            url.hash = anchor; // Restore anchor
+
+            window.location.href = url.href; // Navigate to updated URL
         });
     });
-});*/
+});
