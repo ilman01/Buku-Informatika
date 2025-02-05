@@ -42,7 +42,7 @@ Protokol yang digunakan untuk mentransfer file antar komputer dalam jaringan.
 ### 3.4 DNS (Domain Name System)
 Mengubah nama domain (seperti www.google.com) menjadi alamat IP yang dapat dipahami oleh perangkat.
 
-## 4. Model Referensi OSI
+## 4. Model OSI
 Model OSI (Open Systems Interconnection) adalah model konseptual yang menggambarkan bagaimana komunikasi terjadi dalam jaringan komputer. Model ini terdiri dari tujuh lapisan yang masing-masing memiliki fungsinya sendiri. Berikut adalah tujuh lapisan dalam model OSI:
 
 ### 4.1 Lapisan 1: Physical Layer
@@ -105,7 +105,7 @@ Enkripsi digunakan untuk mengubah data menjadi format yang tidak dapat dibaca ta
 ### 6.3 VPN (Virtual Private Network)
 VPN membuat koneksi aman antara perangkat dan jaringan, dengan cara mengenkripsi data yang dikirimkan.
 
-## 7. Tren Terkini dalam Jaringan dan Internet
+## 7. Tren Terkini
 Perkembangan teknologi terus mempengaruhi jaringan dan internet. Beberapa tren terkini yang patut dicermati antara lain:
 
 ### 7.1 5G
