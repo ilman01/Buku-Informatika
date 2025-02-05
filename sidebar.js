@@ -19,17 +19,17 @@ const sidebar = `
     </ul>
     <h4 style="padding-top: 40px;"><a class="text-white text-decoration-none" href="#">Buku Informatika</a></h4>
     <ul class="nav flex-column">
-        <li class="nav-item"><a class="nav-link text-white-50" href="/buku/introduction.html">Introduction</a></li>
-        <li class="nav-item"><a class="nav-link text-white-50" href="#section2">Getting Started</a></li>
-        <li class="nav-item"><a class="nav-link text-white-50" href="#section3">Components</a></li>
-        <li class="nav-item"><a class="nav-link text-white-50" href="#section4">API Reference</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/introduction.html">Introduction</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="#section2">Getting Started</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="#section3">Components</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="#section4">API Reference</a></li>
     </ul>
     <h4 style="padding-top: 40px;"><a class="text-white text-decoration-none" href="#">Buku Informatika</a></h4>
     <ul class="nav flex-column">
-        <li class="nav-item"><a class="nav-link text-white-50" href="/buku/introduction.html">Introduction</a></li>
-        <li class="nav-item"><a class="nav-link text-white-50" href="#section2">Getting Started</a></li>
-        <li class="nav-item"><a class="nav-link text-white-50" href="#section3">Components</a></li>
-        <li class="nav-item"><a class="nav-link text-white-50" href="#section4">API Reference</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="/buku/introduction.html">Introduction</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="#section2">Getting Started</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="#section3">Components</a></li>
+        <li class="nav-item"><a class="nav-link text-white-50 bar" href="#section4">API Reference</a></li>
     </ul>
 </div>
 `
