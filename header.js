@@ -8,8 +8,7 @@ const header = `
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ms-auto gap-3">
                 <li class="nav-item"><a class="nav-link text-white" href="/">Home</a></li>
-                <li class="nav-item"><a class="nav-link text-white" href="/buku/introduction.html">Buku</a></li>
-                <li class="nav-item"><a class="nav-link text-white" href="#">About</a></li>
+                <li class="nav-item"><a class="nav-link text-white" href="/buku/bab1.html">Buku</a></li>
             </ul>
         </div>
     </div>
